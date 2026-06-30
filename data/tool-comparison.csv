@@ -1,0 +1,4 @@
+tool,specialty,best_for,output_type,execution_environment
+v0 by Vercel,Front-end UI generation,"Visual PMs illustrating a dashboard layout or onboarding flow",Pixel-perfect responsive React components,Generated for external deployment
+Lovable,Full-stack application logic,"Prototypes needing state management, data visualization, or multi-step forms",Interactive full-stack software demo,Generated for external deployment
+Bolt,Browser-based code execution,"Generating, running, and testing an app with zero local setup",Live testable application,Runs directly in-browser
